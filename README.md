@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
