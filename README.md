@@ -29,5 +29,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/0058-length-of-last-word) |
+| [0520-detect-capital](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/0520-detect-capital) |
 | [3110-score-of-a-string](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
