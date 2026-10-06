@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/0231-power-of-two) |
+| [2413-smallest-even-multiple](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/2769-find-the-maximum-achievable-number) |
 ## Bit Manipulation
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/0058-length-of-last-word) |
 | [0520-detect-capital](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/0520-detect-capital) |
 | [3110-score-of-a-string](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/3110-score-of-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
