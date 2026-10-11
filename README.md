@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/0231-power-of-two) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2119-a-number-after-a-double-reversal](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/2413-smallest-even-multiple) |
