@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2119-a-number-after-a-double-reversal](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/2427-number-of-common-factors) |
 | [2769-find-the-maximum-achievable-number](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/2769-find-the-maximum-achievable-number) |
 ## Bit Manipulation
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/2427-number-of-common-factors) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/0704-binary-search) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/amritdubey78999-hub/LeetcodeDsa/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
