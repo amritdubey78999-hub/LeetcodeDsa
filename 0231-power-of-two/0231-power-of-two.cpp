@@ -1,15 +1,12 @@
 class Solution {
 public:
     bool isPowerOfTwo(int n) {
-        if(n<1)
-            return 0;
-        while(n!=1){
-            if(n%2!=0)
-            return 0;
-
-            n/=2;
+        // Negative numbers aur 0 kabhi bhi power of two nahi ho sakte
+        if (n <= 0) {
+            return false;
         }
         
-        return 1;
+        // Agar (n & (n - 1)) zero aaya, toh matlab n power of two hai
+        return (n & (n - 1)) == 0;
     }
 };
